@@ -1,5 +1,5 @@
 {
-  "name": "coffeecode/uploader",
+  "name": "coffeecode2/uploader2",
   "description": "It is a easy PHP upload manager for images, files and media in your application",
   "keywords": [
     "CoffeeCode",
@@ -24,7 +24,7 @@
     }
   ],
   "require": {
-    "php": ">=7.2",
+    "php": ">=7.0",
     "ext-gd": "*",
     "ext-mbstring": "*",
     "ext-exif": "*"
